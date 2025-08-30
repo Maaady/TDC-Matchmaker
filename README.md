@@ -9,8 +9,6 @@ A production-ready **internal matchmaking tool MVP** built for the TDC team to m
 - Provide a simple dashboard for **customer management & journey tracking**
 - Enable **gender-specific, scalable matching logic**
 - Integrate **AI scoring + natural language insights**
-- Deploy quickly on **Vercel/Netlify**
-
 ---
 
 ## ✨ Core Features
