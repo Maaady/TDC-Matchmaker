@@ -1,10 +1,10 @@
 # 💘 TDC MatchMaker
-[![Java](https://img.shields.io/badge/Next.js-18.0-green.svg)](https://www.next.jslang.org/)
-[![Spring boot](https://img.shields.io/badge/SpringBoot-3.8+-yellow.svg)](https://www.SpringBootlang.org/)
-[![WebSockets](https://img.shields.io/badge/WebSockets-5.2-brown.svg)](https://www.WebSocketslang.org/)
-[![Redis](https://img.shields.io/badge/Redis-8.2-pink.svg)](https://www.Redislang.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3.8+-orange.svg)](https://www.PostgreSQLlang.org/)
-[![Docker](https://img.shields.io/badge/Docker-1.2+-yellow.svg)](https://www.Dockerlang.org/)
+[![React](https://img.shields.io/badge/React-18.0-green.svg)](https://www.next.jslang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-3.8+-yellow.svg)](https://www.Node.jslang.org/)
+[![OpenAi](https://img.shields.io/badge/OpenAi-5.2-brown.svg)](https://www.OpenAilang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-8.2-pink.svg)](https://www.TailwindCSSlang.org/)
+[![MockDB](https://img.shields.io/badge/MockDB-3.8+-orange.svg)](https://www.MockDBlang.org/)
+[![LLM](https://img.shields.io/badge/LLM-1.2+-yellow.svg)](https://www.LLMlang.org/)
 
 ![TDC Matchmaker Banner](https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,100:8B5CF6&height=150&section=header&text=TDC%20MatchMaker%20%E2%9D%A4%EF%B8%8F&fontSize=44&fontColor=ffffff)
 
